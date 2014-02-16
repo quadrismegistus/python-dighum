@@ -46,7 +46,7 @@ def refine_word(x):
     # First, let's make x lowercase
     x=x.lower()
 
-    # Then, let's remove all non-alphanumeric characters from the end of x
+    # Then, let's remove all non-alphanumeric characters from the end of x (like commas and periods)
     # While there are still letters in x ("while x", because if x has no letters, "while x" will stop looping)...
     # ... and while the last letter of x ("x[-1]") is not alphanumeric ...
     while x and not x[-1].isalnum():
@@ -66,7 +66,7 @@ words=tokenize(text)
 ######### PART 3: Count the words in the list of words that we've created #########
 
 # let's make a function that does this, and then later APPLY that function
-# define a function 'count' that accent an incoming list 'l'
+# define a function 'count' that expects an incoming list 'l'
 def count(l):
     # make an empty dictionary 'd'
     d={}
