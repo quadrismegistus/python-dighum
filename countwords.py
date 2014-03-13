@@ -1,3 +1,4 @@
+
 ######### PART 1: Opening a file and pasting its contents into a variable 'text' #########
 
 # make available the operating system functions
@@ -34,7 +35,7 @@ def tokenize(x):
 
     # But 'tokens' will have words like "REFLECTIONS" and "France," -- we want "reflections" and "france"
     # Let's make a new list where each word is the *refined* version of the word in original list
-    refined_tokens=[refine_word(y) for y in tokens]
+    words=[refine_word(y) for y in tokens]
 
     # Return refined_tokens back out of this function (all functions generally need a return statement)
     return refined_tokens
