@@ -1,0 +1,915 @@
+text	word	count	tf
+Burke.1790.Reflections on the Revolution of France.txt	modesty	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	delicacy	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	elegant	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	restraint	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	prudent	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	softness	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	ostentation	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	vanity	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	extravagence	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	excess	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	indulge	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	indulgence	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	profligate	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	unrelenting	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	superiority	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	insensibility	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	moderation	10	0.000106157112527
+Burke.1790.Reflections on the Revolution of France.txt	self-control	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	decorum	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	propriety	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	proper	12	0.000127388535032
+Burke.1790.Reflections on the Revolution of France.txt	sober	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	sobriety	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	coarse	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	temperate	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	lewd	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	simplicity	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	indecent	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	indecency	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	decency	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	decent	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	demure	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	chaste	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	moderate	9	9.55414012739e-05
+Burke.1790.Reflections on the Revolution of France.txt	presumption	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	presumptuous	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	arrogance	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	arrogant	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	pride	20	0.000212314225053
+Burke.1790.Reflections on the Revolution of France.txt	proud	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	subdued	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	reserve	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	reserved	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	deference	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	seemly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unseemly	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	indecorous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	decorous	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	appropriate	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	inappropriate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	appropriateness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	inappropriateness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	conformity	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	orderly	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	disorderly	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	modest	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	immodest	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	polite	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	politeness	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	becoming	11	0.000116772823779
+Burke.1790.Reflections on the Revolution of France.txt	unbecoming	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	indelicate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	indelicacy	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	cautious	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	caution	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	circumspect	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	circumspection	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	restrained	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	unrestrained	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	self-restraint	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sensitive	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sensitiveness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sensible	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	reasonable	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	judicious	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	judiciousness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	discreet	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	discretion	11	0.000116772823779
+Burke.1790.Reflections on the Revolution of France.txt	courteous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	courtesy	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	rash	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	reckless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	recklessness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impetuous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impetuousness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impulsive	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impulsiveness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	considerate	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	inconsiderate	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	mildness	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	mild	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	gentle	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	gentleness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ostentation	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	vainglorious	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	pompous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	pompousness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	boastful	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	boast	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	bragging	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	humble	8	8.49256900212e-05
+Burke.1790.Reflections on the Revolution of France.txt	humility	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	haughtiness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	haughty	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	supercilious	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	superciliousness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	conceited	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	conceit	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	conceitedness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	excessive	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	extravagant	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	prodigality	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	prodigal	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	emotional	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	scrupulous	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	restrain	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	civility	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	agreeable	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	gracious	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	genteel	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	urbanity	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	nicety	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	refined	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	refinement	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	uncouth	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	intemperate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	intemperance	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	immoderate	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	wanton	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	wantonness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	extravagance	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	insolent	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	insolence	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	rudeness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	incivility	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	condescension	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	condescending	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	thoughtless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	indiscreet	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ungracious	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	misbehaviour	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impropriety	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	rusticity	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	grossness	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	vulgar	11	0.000116772823779
+Burke.1790.Reflections on the Revolution of France.txt	improper	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	ungenteel	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	gross	11	0.000116772823779
+Burke.1790.Reflections on the Revolution of France.txt	solicitous	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	sobriety	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	overbearing	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	petulant	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	petulance	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	impertinent	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impertinence	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	affront	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impudence	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	impudent	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	affectation	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	unassuming	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	indecent	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	manners	24	0.000254777070064
+Burke.1790.Reflections on the Revolution of France.txt	morality	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	moral	34	0.00036093418259
+Burke.1790.Reflections on the Revolution of France.txt	immoral	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sin	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sinful	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	indecent	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	manners	24	0.000254777070064
+Burke.1790.Reflections on the Revolution of France.txt	morality	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	moral	34	0.00036093418259
+Burke.1790.Reflections on the Revolution of France.txt	immoral	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sin	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sinful	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	shame	9	9.55414012739e-05
+Burke.1790.Reflections on the Revolution of France.txt	shameful	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	etiquette	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	reputation	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	reputable	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	disreputable	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	virtuous	11	0.000116772823779
+Burke.1790.Reflections on the Revolution of France.txt	temper	8	8.49256900212e-05
+Burke.1790.Reflections on the Revolution of France.txt	licentious	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	licentiousness	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	debauched	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	debauchery	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	conduct	40	0.000424628450106
+Burke.1790.Reflections on the Revolution of France.txt	character	44	0.000467091295117
+Burke.1790.Reflections on the Revolution of France.txt	virtue	50	0.000530785562633
+Burke.1790.Reflections on the Revolution of France.txt	faultless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	excellence	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	esteem	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	admiration	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	nobility	36	0.000382165605096
+Burke.1790.Reflections on the Revolution of France.txt	dignity	28	0.000297239915074
+Burke.1790.Reflections on the Revolution of France.txt	dignified	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	principle	91	0.000966029723992
+Burke.1790.Reflections on the Revolution of France.txt	depravity	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	unworthy	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	infamy	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	despise	8	8.49256900212e-05
+Burke.1790.Reflections on the Revolution of France.txt	vice	10	0.000106157112527
+Burke.1790.Reflections on the Revolution of France.txt	lewd	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	lewdness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	badness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sinful	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	iniquity	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	iniquitous	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	malice	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	malicious	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	maliciousness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	malignity	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	malignant	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	flagrant	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	villainy	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	heinous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	turpitude	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	perverse	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	perverseness	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	depravity	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	depraved	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	deprave	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	wicked	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	pernicious	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	wickedness	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	outrageous	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	inexcusable	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unpardonable	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	reprobate	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	debauch	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	misconduct	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	shameful	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	unwholesome	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	foul	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	depravation	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	debased	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	degenerate	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	corrupt	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	corruption	8	8.49256900212e-05
+Burke.1790.Reflections on the Revolution of France.txt	reprobate	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	corrupted	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	misconduct	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	guilt	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	guilty	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	ribaldry	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	goodness	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	valour	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	respectable	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	honour	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	magnanimity	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	magnanimous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	integrity	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	irreproachable	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	reproach	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	rectitude	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	righteous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	righteousness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	undefiled	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	uncorrupt	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	uncorrupted	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	tainted	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	untainted	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	incorruptible	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	corruptible	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	corrupting	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	innocent	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	innocence	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	guiltless	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	respect	28	0.000297239915074
+Burke.1790.Reflections on the Revolution of France.txt	admire	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	admiration	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	admired	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	esteemed	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	respected	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	worthy	11	0.000116772823779
+Burke.1790.Reflections on the Revolution of France.txt	merit	9	9.55414012739e-05
+Burke.1790.Reflections on the Revolution of France.txt	dignified	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	contempt	22	0.000233545647558
+Burke.1790.Reflections on the Revolution of France.txt	contemptible	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	despised	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	despicable	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	laudable	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	sordid	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	disdained	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	disgrace	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	infamy	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	infamous	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	notorious	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	scandalous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	reproof	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	reprove	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ignominy	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	disgraceful	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	ignominious	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	disgraced	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	ashamed	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	baseness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	chastity	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	chaste	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	passion	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	passionate	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	passionately	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impassioned	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	emotion	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	emotional	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	emotionally	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sensible	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	sensibleness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sensibility	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	sentiment	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	sentimental	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sentimentally	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sentimentality	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sentimentalizing	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sentimentalist	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sentimentalizer	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sentimentalize	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	mawkish	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	mawkishness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sentimentalism	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	feeling	6	6.36942675159e-05
+Burke.1790.Reflections on the Revolution of France.txt	affect	7	7.43099787686e-05
+Burke.1790.Reflections on the Revolution of France.txt	heart	26	0.000276008492569
+Burke.1790.Reflections on the Revolution of France.txt	pang	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	affective	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	emotive	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	affectional	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	affectively	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	feelingly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	bosom	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	heartward	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	maudlin	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	emotionalism	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	maudlinly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	mawkishly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	zealous	5	5.30785562633e-05
+Burke.1790.Reflections on the Revolution of France.txt	blushing	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passionateness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	master-passion	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passioning	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ebullition	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ecstasy	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	roiled	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	pathetic	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	full-hearted	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passioned	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passionable	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	vehement	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	hot-blooded	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passionful	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	vehemently	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	pathetically	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impassionately	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impassion	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	fervour	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ardor	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ardour	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ardurous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	fervent	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	fervency	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	fervently	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	fervid	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	fervidly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	perfervor	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	perfervour	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ardent	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	ardently	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	burningly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	enkindle	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	dispassion	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	dispassionate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	dispassionately	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unsentimental	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unsentimentality	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	dispassionateness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passionlessness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impassive	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impassiveness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	insensibility	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unfeeling	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	unfeelingness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	detachment	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	frigidity	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	cold-hearted	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	callous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	callousness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	heartless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	heartlessness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unpassionate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passionless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unimpassioned	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	throbless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	feelingless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	disimpassioned	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	emotionless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unemotional	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unzealous	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	hard-hearted	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	hardheartedness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	stony-hearted	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	dedolent	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unblushing	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	cold-blooded	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	stolid	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	tearless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	inexpressive	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	expressionless	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	passionlessly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	cold-bloodedly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	stolidly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unemotionally	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	coldly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	icily	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	frigidly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	heartlessly	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unzealously	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	callously	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unsentimentalize	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prejudice	15	0.00015923566879
+Burke.1790.Reflections on the Revolution of France.txt	prejudiced	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prejudiced	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	partiality	4	4.24628450106e-05
+Burke.1790.Reflections on the Revolution of France.txt	partial	9	9.55414012739e-05
+Burke.1790.Reflections on the Revolution of France.txt	impartial	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	objective	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	objectivity	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	objectively	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	sober-minded	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	correct	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	impartial	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	detached	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	impartiality	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	dispassionate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unpassionate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	disinterested	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	unbiased	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	subjective	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	subjectively	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	bias	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	biased	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prepossession	2	2.12314225053e-05
+Burke.1790.Reflections on the Revolution of France.txt	prepossessed	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prejudgement	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	preconceit	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	preconception	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	inveterate	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	prejudicial	3	3.1847133758e-05
+Burke.1790.Reflections on the Revolution of France.txt	prejudicate	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prejudicated	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prejudicately	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prejudicially	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	prepossess	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	bigotry	1	1.06157112527e-05
+Burke.1790.Reflections on the Revolution of France.txt	bigot	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	detachment	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	disinterestedness	0	0.0
+Burke.1790.Reflections on the Revolution of France.txt	SemanticField	1177	0.0124946921444
+Paine.1791.Righs of Man.txt	modesty	0	0.0
+Paine.1791.Righs of Man.txt	delicacy	0	0.0
+Paine.1791.Righs of Man.txt	elegant	0	0.0
+Paine.1791.Righs of Man.txt	restraint	0	0.0
+Paine.1791.Righs of Man.txt	prudent	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	softness	0	0.0
+Paine.1791.Righs of Man.txt	ostentation	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	vanity	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	extravagence	0	0.0
+Paine.1791.Righs of Man.txt	excess	10	0.000120733577215
+Paine.1791.Righs of Man.txt	indulge	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	indulgence	0	0.0
+Paine.1791.Righs of Man.txt	profligate	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	unrelenting	0	0.0
+Paine.1791.Righs of Man.txt	superiority	0	0.0
+Paine.1791.Righs of Man.txt	insensibility	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	moderation	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	self-control	0	0.0
+Paine.1791.Righs of Man.txt	decorum	0	0.0
+Paine.1791.Righs of Man.txt	propriety	10	0.000120733577215
+Paine.1791.Righs of Man.txt	proper	27	0.000325980658481
+Paine.1791.Righs of Man.txt	sober	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	sobriety	0	0.0
+Paine.1791.Righs of Man.txt	coarse	0	0.0
+Paine.1791.Righs of Man.txt	temperate	0	0.0
+Paine.1791.Righs of Man.txt	lewd	0	0.0
+Paine.1791.Righs of Man.txt	simplicity	0	0.0
+Paine.1791.Righs of Man.txt	indecent	0	0.0
+Paine.1791.Righs of Man.txt	indecency	0	0.0
+Paine.1791.Righs of Man.txt	decency	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	decent	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	demure	0	0.0
+Paine.1791.Righs of Man.txt	chaste	0	0.0
+Paine.1791.Righs of Man.txt	moderate	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	presumption	4	4.82934308861e-05
+Paine.1791.Righs of Man.txt	presumptuous	0	0.0
+Paine.1791.Righs of Man.txt	arrogance	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	arrogant	0	0.0
+Paine.1791.Righs of Man.txt	pride	6	7.24401463291e-05
+Paine.1791.Righs of Man.txt	proud	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	subdued	0	0.0
+Paine.1791.Righs of Man.txt	reserve	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	reserved	5	6.03667886076e-05
+Paine.1791.Righs of Man.txt	deference	0	0.0
+Paine.1791.Righs of Man.txt	seemly	0	0.0
+Paine.1791.Righs of Man.txt	unseemly	0	0.0
+Paine.1791.Righs of Man.txt	indecorous	0	0.0
+Paine.1791.Righs of Man.txt	decorous	0	0.0
+Paine.1791.Righs of Man.txt	appropriate	0	0.0
+Paine.1791.Righs of Man.txt	inappropriate	0	0.0
+Paine.1791.Righs of Man.txt	appropriateness	0	0.0
+Paine.1791.Righs of Man.txt	inappropriateness	0	0.0
+Paine.1791.Righs of Man.txt	conformity	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	orderly	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	disorderly	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	modest	0	0.0
+Paine.1791.Righs of Man.txt	immodest	0	0.0
+Paine.1791.Righs of Man.txt	polite	0	0.0
+Paine.1791.Righs of Man.txt	politeness	0	0.0
+Paine.1791.Righs of Man.txt	becoming	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	unbecoming	0	0.0
+Paine.1791.Righs of Man.txt	indelicate	0	0.0
+Paine.1791.Righs of Man.txt	indelicacy	0	0.0
+Paine.1791.Righs of Man.txt	cautious	0	0.0
+Paine.1791.Righs of Man.txt	caution	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	circumspect	0	0.0
+Paine.1791.Righs of Man.txt	circumspection	0	0.0
+Paine.1791.Righs of Man.txt	restrained	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	unrestrained	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	self-restraint	0	0.0
+Paine.1791.Righs of Man.txt	sensitive	0	0.0
+Paine.1791.Righs of Man.txt	sensitiveness	0	0.0
+Paine.1791.Righs of Man.txt	sensible	5	6.03667886076e-05
+Paine.1791.Righs of Man.txt	reasonable	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	judicious	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	judiciousness	0	0.0
+Paine.1791.Righs of Man.txt	discreet	0	0.0
+Paine.1791.Righs of Man.txt	discretion	4	4.82934308861e-05
+Paine.1791.Righs of Man.txt	courteous	0	0.0
+Paine.1791.Righs of Man.txt	courtesy	0	0.0
+Paine.1791.Righs of Man.txt	rash	0	0.0
+Paine.1791.Righs of Man.txt	reckless	0	0.0
+Paine.1791.Righs of Man.txt	recklessness	0	0.0
+Paine.1791.Righs of Man.txt	impetuous	0	0.0
+Paine.1791.Righs of Man.txt	impetuousness	0	0.0
+Paine.1791.Righs of Man.txt	impulsive	0	0.0
+Paine.1791.Righs of Man.txt	impulsiveness	0	0.0
+Paine.1791.Righs of Man.txt	considerate	0	0.0
+Paine.1791.Righs of Man.txt	inconsiderate	0	0.0
+Paine.1791.Righs of Man.txt	mildness	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	mild	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	gentle	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	gentleness	0	0.0
+Paine.1791.Righs of Man.txt	ostentation	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	vainglorious	0	0.0
+Paine.1791.Righs of Man.txt	pompous	0	0.0
+Paine.1791.Righs of Man.txt	pompousness	0	0.0
+Paine.1791.Righs of Man.txt	boastful	0	0.0
+Paine.1791.Righs of Man.txt	boast	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	bragging	0	0.0
+Paine.1791.Righs of Man.txt	humble	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	humility	0	0.0
+Paine.1791.Righs of Man.txt	haughtiness	0	0.0
+Paine.1791.Righs of Man.txt	haughty	0	0.0
+Paine.1791.Righs of Man.txt	supercilious	0	0.0
+Paine.1791.Righs of Man.txt	superciliousness	0	0.0
+Paine.1791.Righs of Man.txt	conceited	0	0.0
+Paine.1791.Righs of Man.txt	conceit	0	0.0
+Paine.1791.Righs of Man.txt	conceitedness	0	0.0
+Paine.1791.Righs of Man.txt	excessive	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	extravagant	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	prodigality	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	prodigal	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	emotional	0	0.0
+Paine.1791.Righs of Man.txt	scrupulous	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	restrain	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	civility	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	agreeable	0	0.0
+Paine.1791.Righs of Man.txt	gracious	0	0.0
+Paine.1791.Righs of Man.txt	genteel	0	0.0
+Paine.1791.Righs of Man.txt	urbanity	0	0.0
+Paine.1791.Righs of Man.txt	nicety	0	0.0
+Paine.1791.Righs of Man.txt	refined	0	0.0
+Paine.1791.Righs of Man.txt	refinement	0	0.0
+Paine.1791.Righs of Man.txt	uncouth	0	0.0
+Paine.1791.Righs of Man.txt	intemperate	0	0.0
+Paine.1791.Righs of Man.txt	intemperance	0	0.0
+Paine.1791.Righs of Man.txt	immoderate	0	0.0
+Paine.1791.Righs of Man.txt	wanton	0	0.0
+Paine.1791.Righs of Man.txt	wantonness	0	0.0
+Paine.1791.Righs of Man.txt	extravagance	9	0.000108660219494
+Paine.1791.Righs of Man.txt	insolent	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	insolence	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	rudeness	0	0.0
+Paine.1791.Righs of Man.txt	incivility	0	0.0
+Paine.1791.Righs of Man.txt	condescension	0	0.0
+Paine.1791.Righs of Man.txt	condescending	0	0.0
+Paine.1791.Righs of Man.txt	thoughtless	0	0.0
+Paine.1791.Righs of Man.txt	indiscreet	0	0.0
+Paine.1791.Righs of Man.txt	ungracious	0	0.0
+Paine.1791.Righs of Man.txt	misbehaviour	0	0.0
+Paine.1791.Righs of Man.txt	impropriety	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	rusticity	0	0.0
+Paine.1791.Righs of Man.txt	grossness	0	0.0
+Paine.1791.Righs of Man.txt	vulgar	4	4.82934308861e-05
+Paine.1791.Righs of Man.txt	improper	9	0.000108660219494
+Paine.1791.Righs of Man.txt	ungenteel	0	0.0
+Paine.1791.Righs of Man.txt	gross	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	solicitous	0	0.0
+Paine.1791.Righs of Man.txt	sobriety	0	0.0
+Paine.1791.Righs of Man.txt	overbearing	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	petulant	0	0.0
+Paine.1791.Righs of Man.txt	petulance	0	0.0
+Paine.1791.Righs of Man.txt	impertinent	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	impertinence	0	0.0
+Paine.1791.Righs of Man.txt	affront	0	0.0
+Paine.1791.Righs of Man.txt	impudence	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	impudent	0	0.0
+Paine.1791.Righs of Man.txt	affectation	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	unassuming	0	0.0
+Paine.1791.Righs of Man.txt	indecent	0	0.0
+Paine.1791.Righs of Man.txt	manners	4	4.82934308861e-05
+Paine.1791.Righs of Man.txt	morality	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	moral	15	0.000181100365823
+Paine.1791.Righs of Man.txt	immoral	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	sin	0	0.0
+Paine.1791.Righs of Man.txt	sinful	0	0.0
+Paine.1791.Righs of Man.txt	indecent	0	0.0
+Paine.1791.Righs of Man.txt	manners	4	4.82934308861e-05
+Paine.1791.Righs of Man.txt	morality	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	moral	15	0.000181100365823
+Paine.1791.Righs of Man.txt	immoral	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	sin	0	0.0
+Paine.1791.Righs of Man.txt	sinful	0	0.0
+Paine.1791.Righs of Man.txt	shame	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	shameful	0	0.0
+Paine.1791.Righs of Man.txt	etiquette	0	0.0
+Paine.1791.Righs of Man.txt	reputation	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	reputable	0	0.0
+Paine.1791.Righs of Man.txt	disreputable	0	0.0
+Paine.1791.Righs of Man.txt	virtuous	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	temper	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	licentious	0	0.0
+Paine.1791.Righs of Man.txt	licentiousness	0	0.0
+Paine.1791.Righs of Man.txt	debauched	0	0.0
+Paine.1791.Righs of Man.txt	debauchery	0	0.0
+Paine.1791.Righs of Man.txt	conduct	10	0.000120733577215
+Paine.1791.Righs of Man.txt	character	76	0.000917575186835
+Paine.1791.Righs of Man.txt	virtue	11	0.000132806934937
+Paine.1791.Righs of Man.txt	faultless	0	0.0
+Paine.1791.Righs of Man.txt	excellence	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	esteem	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	admiration	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	nobility	6	7.24401463291e-05
+Paine.1791.Righs of Man.txt	dignity	10	0.000120733577215
+Paine.1791.Righs of Man.txt	dignified	0	0.0
+Paine.1791.Righs of Man.txt	principle	61	0.000736474821012
+Paine.1791.Righs of Man.txt	depravity	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	unworthy	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	infamy	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	despise	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	vice	6	7.24401463291e-05
+Paine.1791.Righs of Man.txt	lewd	0	0.0
+Paine.1791.Righs of Man.txt	lewdness	0	0.0
+Paine.1791.Righs of Man.txt	badness	0	0.0
+Paine.1791.Righs of Man.txt	sinful	0	0.0
+Paine.1791.Righs of Man.txt	iniquity	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	iniquitous	0	0.0
+Paine.1791.Righs of Man.txt	malice	0	0.0
+Paine.1791.Righs of Man.txt	malicious	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	maliciousness	0	0.0
+Paine.1791.Righs of Man.txt	malignity	0	0.0
+Paine.1791.Righs of Man.txt	malignant	0	0.0
+Paine.1791.Righs of Man.txt	flagrant	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	villainy	0	0.0
+Paine.1791.Righs of Man.txt	heinous	0	0.0
+Paine.1791.Righs of Man.txt	turpitude	0	0.0
+Paine.1791.Righs of Man.txt	perverse	0	0.0
+Paine.1791.Righs of Man.txt	perverseness	0	0.0
+Paine.1791.Righs of Man.txt	depravity	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	depraved	0	0.0
+Paine.1791.Righs of Man.txt	deprave	0	0.0
+Paine.1791.Righs of Man.txt	wicked	0	0.0
+Paine.1791.Righs of Man.txt	pernicious	0	0.0
+Paine.1791.Righs of Man.txt	wickedness	0	0.0
+Paine.1791.Righs of Man.txt	outrageous	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	inexcusable	0	0.0
+Paine.1791.Righs of Man.txt	unpardonable	0	0.0
+Paine.1791.Righs of Man.txt	reprobate	0	0.0
+Paine.1791.Righs of Man.txt	debauch	0	0.0
+Paine.1791.Righs of Man.txt	misconduct	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	shameful	0	0.0
+Paine.1791.Righs of Man.txt	unwholesome	0	0.0
+Paine.1791.Righs of Man.txt	foul	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	depravation	0	0.0
+Paine.1791.Righs of Man.txt	debased	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	degenerate	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	corrupt	6	7.24401463291e-05
+Paine.1791.Righs of Man.txt	corruption	24	0.000289760585316
+Paine.1791.Righs of Man.txt	reprobate	0	0.0
+Paine.1791.Righs of Man.txt	corrupted	5	6.03667886076e-05
+Paine.1791.Righs of Man.txt	misconduct	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	guilt	0	0.0
+Paine.1791.Righs of Man.txt	guilty	0	0.0
+Paine.1791.Righs of Man.txt	ribaldry	0	0.0
+Paine.1791.Righs of Man.txt	goodness	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	valour	0	0.0
+Paine.1791.Righs of Man.txt	respectable	0	0.0
+Paine.1791.Righs of Man.txt	honour	9	0.000108660219494
+Paine.1791.Righs of Man.txt	magnanimity	0	0.0
+Paine.1791.Righs of Man.txt	magnanimous	0	0.0
+Paine.1791.Righs of Man.txt	integrity	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	irreproachable	0	0.0
+Paine.1791.Righs of Man.txt	reproach	8	9.65868617721e-05
+Paine.1791.Righs of Man.txt	rectitude	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	righteous	0	0.0
+Paine.1791.Righs of Man.txt	righteousness	0	0.0
+Paine.1791.Righs of Man.txt	undefiled	0	0.0
+Paine.1791.Righs of Man.txt	uncorrupt	0	0.0
+Paine.1791.Righs of Man.txt	uncorrupted	0	0.0
+Paine.1791.Righs of Man.txt	tainted	0	0.0
+Paine.1791.Righs of Man.txt	untainted	0	0.0
+Paine.1791.Righs of Man.txt	incorruptible	0	0.0
+Paine.1791.Righs of Man.txt	corruptible	0	0.0
+Paine.1791.Righs of Man.txt	corrupting	0	0.0
+Paine.1791.Righs of Man.txt	innocent	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	innocence	0	0.0
+Paine.1791.Righs of Man.txt	guiltless	0	0.0
+Paine.1791.Righs of Man.txt	respect	76	0.000917575186835
+Paine.1791.Righs of Man.txt	admire	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	admiration	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	admired	0	0.0
+Paine.1791.Righs of Man.txt	esteemed	0	0.0
+Paine.1791.Righs of Man.txt	respected	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	worthy	5	6.03667886076e-05
+Paine.1791.Righs of Man.txt	merit	8	9.65868617721e-05
+Paine.1791.Righs of Man.txt	dignified	0	0.0
+Paine.1791.Righs of Man.txt	contempt	15	0.000181100365823
+Paine.1791.Righs of Man.txt	contemptible	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	despised	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	despicable	0	0.0
+Paine.1791.Righs of Man.txt	laudable	0	0.0
+Paine.1791.Righs of Man.txt	sordid	0	0.0
+Paine.1791.Righs of Man.txt	disdained	0	0.0
+Paine.1791.Righs of Man.txt	disgrace	5	6.03667886076e-05
+Paine.1791.Righs of Man.txt	infamy	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	infamous	0	0.0
+Paine.1791.Righs of Man.txt	notorious	0	0.0
+Paine.1791.Righs of Man.txt	scandalous	0	0.0
+Paine.1791.Righs of Man.txt	reproof	0	0.0
+Paine.1791.Righs of Man.txt	reprove	0	0.0
+Paine.1791.Righs of Man.txt	ignominy	0	0.0
+Paine.1791.Righs of Man.txt	disgraceful	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	ignominious	0	0.0
+Paine.1791.Righs of Man.txt	disgraced	0	0.0
+Paine.1791.Righs of Man.txt	ashamed	0	0.0
+Paine.1791.Righs of Man.txt	baseness	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	chastity	0	0.0
+Paine.1791.Righs of Man.txt	chaste	0	0.0
+Paine.1791.Righs of Man.txt	passion	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	passionate	0	0.0
+Paine.1791.Righs of Man.txt	passionately	0	0.0
+Paine.1791.Righs of Man.txt	impassioned	0	0.0
+Paine.1791.Righs of Man.txt	emotion	0	0.0
+Paine.1791.Righs of Man.txt	emotional	0	0.0
+Paine.1791.Righs of Man.txt	emotionally	0	0.0
+Paine.1791.Righs of Man.txt	sensible	5	6.03667886076e-05
+Paine.1791.Righs of Man.txt	sensibleness	0	0.0
+Paine.1791.Righs of Man.txt	sensibility	0	0.0
+Paine.1791.Righs of Man.txt	sentiment	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	sentimental	0	0.0
+Paine.1791.Righs of Man.txt	sentimentally	0	0.0
+Paine.1791.Righs of Man.txt	sentimentality	0	0.0
+Paine.1791.Righs of Man.txt	sentimentalizing	0	0.0
+Paine.1791.Righs of Man.txt	sentimentalist	0	0.0
+Paine.1791.Righs of Man.txt	sentimentalizer	0	0.0
+Paine.1791.Righs of Man.txt	sentimentalize	0	0.0
+Paine.1791.Righs of Man.txt	mawkish	0	0.0
+Paine.1791.Righs of Man.txt	mawkishness	0	0.0
+Paine.1791.Righs of Man.txt	sentimentalism	0	0.0
+Paine.1791.Righs of Man.txt	feeling	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	affect	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	heart	18	0.000217320438987
+Paine.1791.Righs of Man.txt	pang	0	0.0
+Paine.1791.Righs of Man.txt	affective	0	0.0
+Paine.1791.Righs of Man.txt	emotive	0	0.0
+Paine.1791.Righs of Man.txt	affectional	0	0.0
+Paine.1791.Righs of Man.txt	affectively	0	0.0
+Paine.1791.Righs of Man.txt	feelingly	0	0.0
+Paine.1791.Righs of Man.txt	bosom	0	0.0
+Paine.1791.Righs of Man.txt	heartward	0	0.0
+Paine.1791.Righs of Man.txt	maudlin	0	0.0
+Paine.1791.Righs of Man.txt	emotionalism	0	0.0
+Paine.1791.Righs of Man.txt	maudlinly	0	0.0
+Paine.1791.Righs of Man.txt	mawkishly	0	0.0
+Paine.1791.Righs of Man.txt	zealous	0	0.0
+Paine.1791.Righs of Man.txt	blushing	0	0.0
+Paine.1791.Righs of Man.txt	passionateness	0	0.0
+Paine.1791.Righs of Man.txt	master-passion	0	0.0
+Paine.1791.Righs of Man.txt	passioning	0	0.0
+Paine.1791.Righs of Man.txt	ebullition	0	0.0
+Paine.1791.Righs of Man.txt	ecstasy	0	0.0
+Paine.1791.Righs of Man.txt	roiled	0	0.0
+Paine.1791.Righs of Man.txt	pathetic	0	0.0
+Paine.1791.Righs of Man.txt	full-hearted	0	0.0
+Paine.1791.Righs of Man.txt	passioned	0	0.0
+Paine.1791.Righs of Man.txt	passionable	0	0.0
+Paine.1791.Righs of Man.txt	vehement	0	0.0
+Paine.1791.Righs of Man.txt	hot-blooded	0	0.0
+Paine.1791.Righs of Man.txt	passionful	0	0.0
+Paine.1791.Righs of Man.txt	vehemently	0	0.0
+Paine.1791.Righs of Man.txt	pathetically	0	0.0
+Paine.1791.Righs of Man.txt	impassionately	0	0.0
+Paine.1791.Righs of Man.txt	impassion	0	0.0
+Paine.1791.Righs of Man.txt	fervour	0	0.0
+Paine.1791.Righs of Man.txt	ardor	0	0.0
+Paine.1791.Righs of Man.txt	ardour	0	0.0
+Paine.1791.Righs of Man.txt	ardurous	0	0.0
+Paine.1791.Righs of Man.txt	fervent	0	0.0
+Paine.1791.Righs of Man.txt	fervency	0	0.0
+Paine.1791.Righs of Man.txt	fervently	0	0.0
+Paine.1791.Righs of Man.txt	fervid	0	0.0
+Paine.1791.Righs of Man.txt	fervidly	0	0.0
+Paine.1791.Righs of Man.txt	perfervor	0	0.0
+Paine.1791.Righs of Man.txt	perfervour	0	0.0
+Paine.1791.Righs of Man.txt	ardent	0	0.0
+Paine.1791.Righs of Man.txt	ardently	0	0.0
+Paine.1791.Righs of Man.txt	burningly	0	0.0
+Paine.1791.Righs of Man.txt	enkindle	0	0.0
+Paine.1791.Righs of Man.txt	dispassion	0	0.0
+Paine.1791.Righs of Man.txt	dispassionate	0	0.0
+Paine.1791.Righs of Man.txt	dispassionately	0	0.0
+Paine.1791.Righs of Man.txt	unsentimental	0	0.0
+Paine.1791.Righs of Man.txt	unsentimentality	0	0.0
+Paine.1791.Righs of Man.txt	dispassionateness	0	0.0
+Paine.1791.Righs of Man.txt	passionlessness	0	0.0
+Paine.1791.Righs of Man.txt	impassive	0	0.0
+Paine.1791.Righs of Man.txt	impassiveness	0	0.0
+Paine.1791.Righs of Man.txt	insensibility	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	unfeeling	0	0.0
+Paine.1791.Righs of Man.txt	unfeelingness	0	0.0
+Paine.1791.Righs of Man.txt	detachment	0	0.0
+Paine.1791.Righs of Man.txt	frigidity	0	0.0
+Paine.1791.Righs of Man.txt	cold-hearted	0	0.0
+Paine.1791.Righs of Man.txt	callous	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	callousness	0	0.0
+Paine.1791.Righs of Man.txt	heartless	0	0.0
+Paine.1791.Righs of Man.txt	heartlessness	0	0.0
+Paine.1791.Righs of Man.txt	unpassionate	0	0.0
+Paine.1791.Righs of Man.txt	passionless	0	0.0
+Paine.1791.Righs of Man.txt	unimpassioned	0	0.0
+Paine.1791.Righs of Man.txt	throbless	0	0.0
+Paine.1791.Righs of Man.txt	feelingless	0	0.0
+Paine.1791.Righs of Man.txt	disimpassioned	0	0.0
+Paine.1791.Righs of Man.txt	emotionless	0	0.0
+Paine.1791.Righs of Man.txt	unemotional	0	0.0
+Paine.1791.Righs of Man.txt	unzealous	0	0.0
+Paine.1791.Righs of Man.txt	hard-hearted	0	0.0
+Paine.1791.Righs of Man.txt	hardheartedness	0	0.0
+Paine.1791.Righs of Man.txt	stony-hearted	0	0.0
+Paine.1791.Righs of Man.txt	dedolent	0	0.0
+Paine.1791.Righs of Man.txt	unblushing	0	0.0
+Paine.1791.Righs of Man.txt	cold-blooded	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	stolid	0	0.0
+Paine.1791.Righs of Man.txt	tearless	0	0.0
+Paine.1791.Righs of Man.txt	inexpressive	0	0.0
+Paine.1791.Righs of Man.txt	expressionless	0	0.0
+Paine.1791.Righs of Man.txt	passionlessly	0	0.0
+Paine.1791.Righs of Man.txt	cold-bloodedly	0	0.0
+Paine.1791.Righs of Man.txt	stolidly	0	0.0
+Paine.1791.Righs of Man.txt	unemotionally	0	0.0
+Paine.1791.Righs of Man.txt	coldly	0	0.0
+Paine.1791.Righs of Man.txt	icily	0	0.0
+Paine.1791.Righs of Man.txt	frigidly	0	0.0
+Paine.1791.Righs of Man.txt	heartlessly	0	0.0
+Paine.1791.Righs of Man.txt	unzealously	0	0.0
+Paine.1791.Righs of Man.txt	callously	0	0.0
+Paine.1791.Righs of Man.txt	unsentimentalize	0	0.0
+Paine.1791.Righs of Man.txt	prejudice	7	8.45135040506e-05
+Paine.1791.Righs of Man.txt	prejudiced	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	prejudiced	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	partiality	0	0.0
+Paine.1791.Righs of Man.txt	partial	3	3.62200731645e-05
+Paine.1791.Righs of Man.txt	impartial	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	objective	0	0.0
+Paine.1791.Righs of Man.txt	objectivity	0	0.0
+Paine.1791.Righs of Man.txt	objectively	0	0.0
+Paine.1791.Righs of Man.txt	sober-minded	0	0.0
+Paine.1791.Righs of Man.txt	correct	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	impartial	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	detached	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	impartiality	0	0.0
+Paine.1791.Righs of Man.txt	dispassionate	0	0.0
+Paine.1791.Righs of Man.txt	unpassionate	0	0.0
+Paine.1791.Righs of Man.txt	disinterested	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	unbiased	0	0.0
+Paine.1791.Righs of Man.txt	subjective	0	0.0
+Paine.1791.Righs of Man.txt	subjectively	0	0.0
+Paine.1791.Righs of Man.txt	bias	1	1.20733577215e-05
+Paine.1791.Righs of Man.txt	biased	0	0.0
+Paine.1791.Righs of Man.txt	prepossession	0	0.0
+Paine.1791.Righs of Man.txt	prepossessed	0	0.0
+Paine.1791.Righs of Man.txt	prejudgement	0	0.0
+Paine.1791.Righs of Man.txt	preconceit	0	0.0
+Paine.1791.Righs of Man.txt	preconception	0	0.0
+Paine.1791.Righs of Man.txt	inveterate	0	0.0
+Paine.1791.Righs of Man.txt	prejudicial	0	0.0
+Paine.1791.Righs of Man.txt	prejudicate	0	0.0
+Paine.1791.Righs of Man.txt	prejudicated	0	0.0
+Paine.1791.Righs of Man.txt	prejudicately	0	0.0
+Paine.1791.Righs of Man.txt	prejudicially	0	0.0
+Paine.1791.Righs of Man.txt	prepossess	0	0.0
+Paine.1791.Righs of Man.txt	bigotry	0	0.0
+Paine.1791.Righs of Man.txt	bigot	0	0.0
+Paine.1791.Righs of Man.txt	detachment	0	0.0
+Paine.1791.Righs of Man.txt	disinterestedness	2	2.4146715443e-05
+Paine.1791.Righs of Man.txt	SemanticField	654	0.00789597594987
