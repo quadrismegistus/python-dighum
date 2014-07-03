@@ -7,8 +7,13 @@ def get_text(filename):
     if not os.path.exists(filename):
         print "!! File not found!",filename
     else:
-        file=codecs.open(filename,encoding='utf-8')
-        text=file.read()
+        try:
+            file=codecs.open(filename,encoding='utf-8')
+            text=file.read()
+        except UnicodeDecodeError:
+            file=open(filename)
+            text=file.read()
+
         return text
         
 def refine_token(token):
@@ -43,7 +48,44 @@ def tokenize(text, splitby=None):
         words.append(word)
         
     return words
-    
+
+
+def get_passages(text, substring, window=50):
+    horizon = int(window / 2)
+
+    textl = text.lower()
+    subl = substring.lower()
+
+    index = textl.find(subl)
+
+    passages = []
+
+    while index > -1:
+        pre=text[:index]
+        post=text[index + len(substring):]
+
+        left_letter = pre[-1]
+        right_letter = post[0]
+
+        if not left_letter.isalpha() and not right_letter.isalpha():
+            pre_words = pre.split()
+            post_words = post.split()
+
+            pre_window = pre_words[-horizon:]
+            post_window = post_words[:horizon]
+
+            pre_window_str = ' '.join(pre_window)
+            post_window_str = ' '.join(post_window)
+
+            passage = pre_window_str + ' >>>' + substring + '<<< ' + post_window_str
+
+            passages.append(passage)
+
+        index = textl.find(subl,index+1)
+
+    return passages
+
+
     
 def count_substring(text, substring):
     textl = text.lower()
